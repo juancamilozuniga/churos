@@ -1,3 +1,4 @@
+
 import "./App.css";
 
 function Pagina() {
@@ -22,14 +23,11 @@ function Pagina() {
 
       <header className="hero">
 
-       
         <br />
 
         <h1>
           TEMPLO ESPIRITUAL <br /> NUMEROLOGICO
         </h1>
-
-        
 
         <br /><br /><br /><br /><br />
 
@@ -41,7 +39,7 @@ function Pagina() {
         <br />
 
         <p className="subtitulocentrado">
-          Mis números son energía ganadora, escribe ya mismo y obtenga su número de ganancias ,sea chance lotería, juegos de azar lo que necesites tengo el Don de  la suerte heredado de mis ancestros ,llevo años dando ganadores, escriba ya mismo, también trabajo la suerte el amor despojo lo malo y traigo lo bueno abro los caminos de la abundancia y la prosperidad
+          Mis números son energía ganadora, escribe ya mismo y obtenga su número de ganancias, sea chance lotería, juegos de azar lo que necesites tengo el Don de la suerte heredado de mis ancestros, llevo años dando ganadores, escriba ya mismo, también trabajo la suerte el amor despojo lo malo y traigo lo bueno abro los caminos de la abundancia y la prosperidad
         </p>
 
       </header>
@@ -95,7 +93,7 @@ function Pagina() {
       <div className="botones-flotantes">
 
         <p className="texto-asesor">
-          COMUNICATE CON <br />NUESTROS GUIAS <br /> ESPIRITUALES 
+          COMUNICATE CON <br />NUESTROS GUIAS <br /> ESPIRITUALES
         </p>
 
         <a
@@ -104,16 +102,14 @@ function Pagina() {
           rel="noopener noreferrer"
           className="whatsapp-flotante"
         >
-          
         </a>
 
         <a
-          href="https://wa.me/573054269075?text=Buenos%20d%C3%ADas%2C%20bienvenido%20al%20Templo%20Espiritual%20Numerol%C3%B3gico.%20%C2%BFEn%20qu%C3%A9%20podemos%20ayudarte%3F"
+          href="https://wa.me/573104016087?text=Buenos%20d%C3%ADas%2C%20bienvenido%20al%20Templo%20Espiritual%20Numerol%C3%B3gico.%20%C2%BFEn%20qu%C3%A9%20podemos%20ayudarte%3F"
           target="_blank"
           rel="noopener noreferrer"
           className="whatsapp-flotante maestro1"
         >
-          
         </a>
 
       </div>
@@ -123,3 +119,4 @@ function Pagina() {
 }
 
 export default Pagina;
+
